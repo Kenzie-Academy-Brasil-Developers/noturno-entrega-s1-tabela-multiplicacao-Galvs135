@@ -10,7 +10,7 @@ function tabelaMultiplicacao(n) {
         }
 
     }
-    console.table(x)
+    console.table(x);
 }
 
-console.log(tabelaMultiplicacao(10))
+console.log(tabelaMultiplicacao(10));
